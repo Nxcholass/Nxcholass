@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+[Nicholas];Desenvolvedor+Full+Stack;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá!+Me+chamo+Nicholas;Desenvolvedor+Full+Stack;" alt="Typing SVG"/>
   </a>
 </h1>
 
@@ -14,10 +14,10 @@
 <div align="center">
   <br>
   <h2>GitHub Stats</h2>
-  <a href="https://github.com/[Nxcholass]">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[Nxcholass]&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/Nxcholass">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Nxcholass]&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas"/>
   <br>
 </div>
 
@@ -41,8 +41,8 @@
 
   <h2 align="center">Contatos</h2>
   <p align="center">
-    <a href="mailto:[ninovetti@gmail.com]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/novetti/]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:ninovetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/novetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
 </div>
 
