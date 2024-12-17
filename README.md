@@ -15,9 +15,9 @@
   <br>
   <h2>GitHub Stats</h2>
   <a href="https://github.com/Nxcholass">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   </a>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxcholass&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="Linguagens mais usadas"/>
   <br>
 </div>
 
